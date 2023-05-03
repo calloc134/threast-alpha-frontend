@@ -14,7 +14,9 @@
 | ルーティング支援 | generouted |
 | リクエストライブラリ | axios |
 | データフェッチ | React Query |
-| UIライブラリ | Chakra UI |
+| ヘッドレスUIライブラリ | Radix UI |
+| UIスタイルライブラリ | Tailwind CSS |
+| UIスタイル | shadcn/ui |
 | フォームライブラリ | React Hook Form |
 | 状態管理 | Jotai |
 | コンポーネント管理 | Ladle |
