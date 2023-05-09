@@ -1,4 +1,5 @@
-import { Outlet } from '@tanstack/react-location'
+
+import { Outlet } from '@tanstack/react-router'
 import { useState } from 'react'
 import "src/index.css"
 
